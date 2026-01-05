@@ -47,6 +47,10 @@ Perancangan sistem mencakup pembacaan data dari sensor DHT11, pengolahan data me
 ---
 
 ## Cara Penggunaan Sistem
+
+<p align="center">
+  <img src="https://github.com/fathirqinthara16-sudo/TUBES-SOC/blob/3fc71130d7cebac58aca4e10895c3ab0c6ed8f63/Flowchart_SoC.jpg" alt="Flowchart Sistem SoC" width="700">
+</p>
 <p align="center">
   <b>Gambar 1.</b> Flowchart Sistem Deteksi Suhu dan Kelembapan Berbasis FPGA
 </p>
@@ -65,6 +69,8 @@ Selanjutnya, sistem menentukan jenis data yang akan ditampilkan. Apabila sistem 
 ## Blok Diagram Sistem
 
 <p align="center">
+  <img src="https://github.com/fathirqinthara16-sudo/TUBES-SOC/blob/3fc71130d7cebac58aca4e10895c3ab0c6ed8f63/Flowchart_SoC.jpg" alt="Flowchart Sistem SoC" width="700">
+</p>
   <b>Gambar 2.</b> Diagram Blok Deteksi Suhu dan Kelembapan Berbasis FPGA
 </p>
 
