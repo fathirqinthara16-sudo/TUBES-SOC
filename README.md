@@ -1,12 +1,14 @@
 <h1 align="center">Laporan Tugas Besar</h1>
 <h1 align="center">Desain FPGA dan SoC 2025</h2>
 
----
-**Kelompok** : 3  
+**Desain FPGA dan SoC**
 
-- **Muhammad Fathir Qinthara** / 1102223006  
-- **Vincentius Artyanta Mahesa** / 1102223079  
-- **Ivan Horas Hamonangan Simaremare** / 1102223105
+---
+
+**Kelompok**            : Kelompok 3  
+**Nama – NIM Anggota 1**: Muhammad Fathir Qinthara - 1102223006  
+**Nama – NIM Anggota 2**: Vincentius Artyanta Mahesa - 1102223079  
+**Nama – NIM Anggota 3**: Ivan Horas Hamonangan Simaremare - 1102223105  
 
 ---
 
