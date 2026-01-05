@@ -164,7 +164,7 @@ File kode utama sistem menggunakan Verilog HDL dapat diakses pada:
 - [(Seven_Segment_Decoder.v)](https://github.com/fathirqinthara16-sudo/TUBES-SOC/blob/b1f63ff2fbac044e7c667d8b3eeaf8e7df8bc55c/seven_segment_decoder.v)
 
 File testbench untuk keperluan simulasi tersedia pada:  
-- [Test Bench.v](mealy_101_tb.v)
+- [Test Bench.v]([mealy_101_tb.v](https://github.com/fathirqinthara16-sudo/TUBES-SOC/blob/9e5229f2afac41b83c35b28631de5760cb123080/tb_DHT.v)
 
 
 ### 2. **Kode Verilog Implementasi Hardware**
