@@ -69,8 +69,12 @@ Selanjutnya, sistem menentukan jenis data yang akan ditampilkan. Apabila sistem 
 ## Blok Diagram Sistem
 
 <p align="center">
-  <img src="https://github.com/fathirqinthara16-sudo/TUBES-SOC/blob/3fc71130d7cebac58aca4e10895c3ab0c6ed8f63/Flowchart_SoC.jpg" alt="Flowchart Sistem SoC" width="700">
+  <img src="https://github.com/fathirqinthara16-sudo/TUBES-SOC/blob/d4d51b342e362bec287e2df5d28006d759d3371e/Blok%20Diagram%20SoC.png" 
+       alt="Diagram Blok Deteksi Suhu dan Kelembapan Berbasis FPGA" 
+       width="700">
 </p>
+
+<p align="center">
   <b>Gambar 2.</b> Diagram Blok Deteksi Suhu dan Kelembapan Berbasis FPGA
 </p>
 
@@ -80,6 +84,17 @@ Selanjutnya, sistem menentukan jenis data yang akan ditampilkan. Apabila sistem 
 ---
 
 ## Finite State Machine (FSM)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fathirqinthara16-sudo/TUBES-SOC/d4d51b342e362bec287e2df5d28006d759d3371e/FSM_SoC.png"
+       alt="Finite State Machine Sistem Deteksi Suhu dan Kelembapan Berbasis FPGA"
+       width="700">
+</p>
+
+<p align="center">
+  <b>Gambar 3.</b> Finite State Machine Sistem Deteksi Suhu dan Kelembapan Berbasis FPGA
+</p>
+
 Finite State Machine (FSM) digunakan untuk mengatur pergantian mode tampilan suhu dan kelembapan secara otomatis berdasarkan waktu simulasi. FSM bekerja secara sinkron terhadap clock lambat (slow clock) dan akan berpindah state ketika kondisi transisi terpenuhi.
 
 ### State S_TEMP (Temperature Mode)
@@ -112,6 +127,17 @@ Finite State Machine (FSM) digunakan untuk mengatur pergantian mode tampilan suh
  
 
 ### Hasil Simulasi
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fathirqinthara16-sudo/TUBES-SOC/d4d51b342e362bec287e2df5d28006d759d3371e/Simulasi_SoC.png"
+       alt="Hasil Simulasi Sistem Deteksi Suhu dan Kelembapan Berbasis FPGA di ModelSim"
+       width="700">
+</p>
+
+<p align="center">
+  <b>Gambar 4.</b> Hasil Simulasi Sistem Deteksi Suhu dan Kelembapan Berbasis FPGA pada ModelSim
+</p>
+
 - Sinyal clk berosilasi secara stabil sebagai clock utama sistem. 
 - Sinyal rst_n aktif low pada awal simulasi dan dilepas untuk memulai operasi sistem atau untuk melakukan reset.  
 - Keluaran seven segment (seg_tens dan seg_units) menampilkan angka 25 pada mode suhu dan 54 pada mode kelembapan.
