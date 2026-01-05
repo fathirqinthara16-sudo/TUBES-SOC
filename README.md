@@ -520,3 +520,6 @@ module seven_seg_decoder (
     end
 endmodule
 ```
+
+## Link Video Implementasi
+[Klik Link Untuk Hasil Video Implementasi Kelompok 3](https://drive.google.com/drive/folders/1a3T9k4i1_YUpCYKt6087nSwYTScUEy)
