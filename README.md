@@ -556,4 +556,4 @@ endmodule
 ```
 
 ## Link Video Implementasi
-[Klik Link Untuk Hasil Video Implementasi Kelompok 3]([https://drive.google.com/drive/folders/1a3T9k4i1_YUpCYKt6087nSwYTScUEy](https://drive.google.com/drive/folders/1a3T9kAikl_YUpCKYt6o87nv5wYIScUEy))
+[Klik Link Untuk Hasil Video Implementasi Kelompok 3](https://drive.google.com/drive/folders/1a3T9kAikl_YUpCKYt6o87nv5wYIScUEy)
