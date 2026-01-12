@@ -175,3 +175,6 @@ File kode utama sistem menggunakan Verilog HDL dapat diakses pada:
 
 ## Link Video Implementasi
 [Klik Link Untuk Hasil Video Implementasi Kelompok 3](https://drive.google.com/drive/folders/1a3T9kAikl_YUpCKYt6o87nv5wYIScUEy)
+
+## Laporan PDF
+- [Laporan PDF)](https://github.com/fathirqinthara16-sudo/TUBES-SOC/blob/a658ccd6012c40a72b14544f448456e8315c00ee/Laporan%20Tugas%20Besar_Kelompok%203.pdf)
